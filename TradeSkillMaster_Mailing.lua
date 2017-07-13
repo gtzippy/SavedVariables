@@ -15,15 +15,18 @@ TradeSkillMaster_MailingDB = {
 	["g@ @deleteEmptyNPCMail"] = false,
 	["g@ @displayMoneyCollected"] = true,
 	["c@Gynum - Bladefist@goldMailTarget"] = "",
-	["f@Horde - Kil'jaeden@deMailTarget"] = "",
+	["c@Zosimus - Bladefist@goldMailTarget"] = "",
 	["c@Huntymchunt - Bladefist@goldMailTarget"] = "",
 	["g@ @deMaxQuality"] = 2,
 	["_version"] = 1,
-	["f@Horde - Kul Tiras@deMailTarget"] = "",
+	["c@Priestface - Kul Tiras@goldMailTarget"] = "",
 	["c@Tipsyox - Bladefist@goldMailTarget"] = "",
 	["g@ @showReloadBtn"] = true,
-	["c@Tipsyox - Bladefist@goldKeepAmount"] = 1000000,
-	["c@Fittyeight - Kil'jaeden@goldMailTarget"] = "",
+	["g@ @helpPlatesShown"] = {
+		["inbox"] = true,
+		["groups"] = true,
+	},
+	["c@Burdell - Kil'jaeden@goldMailTarget"] = "",
 	["_scopeKeys"] = {
 		["char"] = {
 			"Burdell - Bladefist", -- [1]
@@ -42,64 +45,61 @@ TradeSkillMaster_MailingDB = {
 			"Huntymchunt - Bladefist", -- [14]
 			"Fittyeight - Kil'jaeden", -- [15]
 		},
-		["factionrealm"] = {
-			"Horde - Bladefist", -- [1]
-			"Horde - Kil'jaeden", -- [2]
-			"Horde - Kul Tiras", -- [3]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["realm"] = {
 			"Bladefist", -- [1]
 			"Kil'jaeden", -- [2]
 			"Kul Tiras", -- [3]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Bladefist", -- [1]
+			"Horde - Kil'jaeden", -- [2]
+			"Horde - Kul Tiras", -- [3]
+		},
 	},
 	["c@Gynum - Bladefist@goldKeepAmount"] = 1000000,
 	["c@Joopa - Bladefist@goldMailTarget"] = "",
-	["c@Burdell - Kil'jaeden@goldMailTarget"] = "",
-	["g@ @keepMailSpace"] = 0,
+	["c@Darrila - Bladefist@goldKeepAmount"] = 1000000,
+	["g@ @sendMessages"] = true,
 	["c@Huntymchunt - Bladefist@goldKeepAmount"] = 1000000,
 	["g@ @inboxMessages"] = true,
+	["c@Scrogeina - Kil'jaeden@goldKeepAmount"] = 1000000,
 	["g@ @defaultMailTab"] = true,
-	["c@Teats - Bladefist@goldKeepAmount"] = 1000000,
 	["g@ @sendItemsIndividually"] = false,
 	["c@Scrogeina - Kil'jaeden@goldMailTarget"] = "",
 	["_currentProfile"] = {
 		["Tipsyox - Bladefist"] = "Default",
 		["Shamonculus - Kil'jaeden"] = "Default",
 		["Zosimus - Bladefist"] = "Default",
+		["Joopa - Bladefist"] = "Default",
 		["Migatres - Bladefist"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
 		["Scrogeina - Kil'jaeden"] = "Default",
 		["Priestface - Kul Tiras"] = "Default",
 		["Burdell - Bladefist"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
 		["Burdell - Kil'jaeden"] = "Default",
 		["Huntymchunt - Bladefist"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
 		["Gynum - Bladefist"] = "Default",
 		["Darrila - Bladefist"] = "Default",
 		["Teats - Bladefist"] = "Default",
-		["Joopa - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
 	},
 	["g@ @resendDelay"] = 1,
-	["g@ @autoCheck"] = true,
-	["c@Fittyeight - Kil'jaeden@goldKeepAmount"] = 1000000,
+	["c@Hardwoöd - Bladefist@goldMailTarget"] = "",
+	["g@ @defaultPage"] = 1,
 	["c@Shamonculus - Kil'jaeden@goldKeepAmount"] = 1000000,
 	["c@Teats - Bladefist@goldMailTarget"] = "",
-	["g@ @defaultPage"] = 1,
-	["c@Hardwoöd - Bladefist@goldMailTarget"] = "",
+	["c@Fittyeight - Kil'jaeden@goldKeepAmount"] = 1000000,
+	["g@ @autoCheck"] = true,
 	["g@ @openMailSound"] = "TSM_NO_SOUND",
-	["c@Scrogeina - Kil'jaeden@goldKeepAmount"] = 1000000,
-	["g@ @sendMessages"] = true,
-	["c@Darrila - Bladefist@goldKeepAmount"] = 1000000,
+	["c@Teats - Bladefist@goldKeepAmount"] = 1000000,
+	["g@ @keepMailSpace"] = 0,
+	["c@Fittyeight - Kil'jaeden@goldMailTarget"] = "",
 	["c@Hardwoöd - Bladefist@goldKeepAmount"] = 1000000,
-	["g@ @helpPlatesShown"] = {
-		["inbox"] = true,
-		["groups"] = true,
-	},
-	["c@Priestface - Kul Tiras@goldMailTarget"] = "",
+	["c@Tipsyox - Bladefist@goldKeepAmount"] = 1000000,
+	["f@Horde - Kul Tiras@deMailTarget"] = "",
 	["c@Joopa - Bladefist@goldKeepAmount"] = 1000000,
-	["c@Zosimus - Bladefist@goldMailTarget"] = "",
+	["f@Horde - Kil'jaeden@deMailTarget"] = "",
 }

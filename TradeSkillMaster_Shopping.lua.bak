@@ -1,24 +1,8 @@
 
 TradeSkillMaster_ShoppingDB = {
-	["_currentProfile"] = {
-		["Tipsyox - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
-		["Zosimus - Bladefist"] = "Default",
-		["Scrogeina - Kil'jaeden"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
-		["Joopa - Bladefist"] = "Default",
-		["Priestface - Kul Tiras"] = "Default",
-		["Burdell - Bladefist"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
-		["Burdell - Kil'jaeden"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
-		["Gynum - Bladefist"] = "Default",
-		["Darrila - Bladefist"] = "Default",
-		["Teats - Bladefist"] = "Default",
-		["Migatres - Bladefist"] = "Default",
-	},
-	["_version"] = 3,
-	["g@ @sniperVendorPrice"] = true,
+	["g@ @sniperCustomPrice"] = "0c",
+	["g@ @maxDeSearchPercent"] = 1,
+	["g@ @postUndercut"] = "1c",
 	["g@ @postBidPercent"] = 0.95,
 	["_scopeKeys"] = {
 		["char"] = {
@@ -38,232 +22,229 @@ TradeSkillMaster_ShoppingDB = {
 			"Huntymchunt - Bladefist", -- [14]
 			"Fittyeight - Kil'jaeden", -- [15]
 		},
-		["factionrealm"] = {
-			"Horde - Bladefist", -- [1]
-			"Horde - Kil'jaeden", -- [2]
-			"Horde - Kul Tiras", -- [3]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["realm"] = {
 			"Bladefist", -- [1]
 			"Kil'jaeden", -- [2]
 			"Kul Tiras", -- [3]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Bladefist", -- [1]
+			"Horde - Kil'jaeden", -- [2]
+			"Horde - Kul Tiras", -- [3]
+		},
 	},
 	["g@ @helpPlatesShown"] = {
 		["auction"] = true,
 	},
-	["g@ @postUndercut"] = "1c",
-	["g@ @minDeSearchLvl"] = 1,
-	["g@ @maxDeSearchLvl"] = 735,
-	["_hash"] = 1861581,
-	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @sniperVendorPrice"] = true,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1499886487,
+			["lastSearch"] = 1499900342,
+			["name"] = "Bolt of Runecloth/exact",
+			["filter"] = "Bolt of Runecloth/exact",
+		}, -- [1]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499898897,
+			["name"] = "Obliterum/exact",
+			["filter"] = "Obliterum/exact",
+		}, -- [2]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499898874,
 			["name"] = "Yseralline Seed/exact",
 			["filter"] = "Yseralline Seed/exact",
-		}, -- [1]
+		}, -- [3]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499884659,
 			["name"] = "silk cloth/exact",
 			["filter"] = "silk cloth/exact",
-		}, -- [2]
+		}, -- [4]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499884604,
 			["name"] = "elemental earth",
 			["filter"] = "elemental earth",
-		}, -- [3]
+		}, -- [5]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499884111,
 			["name"] = "spirit of har",
 			["filter"] = "spirit of har",
-		}, -- [4]
+		}, -- [6]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499884104,
 			["name"] = "chaos orb",
 			["filter"] = "chaos orb",
-		}, -- [5]
+		}, -- [7]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499884099,
 			["name"] = "Felcloth/exact",
 			["filter"] = "Felcloth/exact",
-		}, -- [6]
+		}, -- [8]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499883476,
 			["name"] = "arkhana",
 			["filter"] = "arkhana",
-		}, -- [7]
+		}, -- [9]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499871999,
 			["name"] = "golden d",
 			["filter"] = "golden d",
-		}, -- [8]
+		}, -- [10]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499871995,
 			["name"] = "golden dreanite",
 			["filter"] = "golden dreanite",
-		}, -- [9]
+		}, -- [11]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499871973,
 			["name"] = "mooncloth",
 			["filter"] = "mooncloth",
-		}, -- [10]
+		}, -- [12]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499871942,
 			["name"] = "spirit of war",
 			["filter"] = "spirit of war",
-		}, -- [11]
+		}, -- [13]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499871712,
 			["name"] = "Green Winter Clothes/exact",
 			["filter"] = "Green Winter Clothes/exact",
-		}, -- [12]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1499870417,
-			["name"] = "Obliterum/exact",
-			["filter"] = "Obliterum/exact",
-		}, -- [13]
+		}, -- [14]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499869097,
 			["name"] = "lavaquake",
 			["filter"] = "lavaquake",
-		}, -- [14]
+		}, -- [15]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837364,
 			["name"] = "titansteel",
 			["filter"] = "titansteel",
-		}, -- [15]
+		}, -- [16]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837310,
 			["name"] = "van-",
 			["filter"] = "van-",
-		}, -- [16]
+		}, -- [17]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837274,
 			["name"] = "chromatic",
 			["filter"] = "chromatic",
-		}, -- [17]
+		}, -- [18]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837269,
 			["name"] = "dragonscale",
 			["filter"] = "dragonscale",
-		}, -- [18]
+		}, -- [19]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837256,
 			["name"] = "black dragonscale",
 			["filter"] = "black dragonscale",
-		}, -- [19]
+		}, -- [20]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837236,
 			["name"] = "green dragonscale",
 			["filter"] = "green dragonscale",
-		}, -- [20]
+		}, -- [21]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837223,
 			["name"] = "blue dragonscale",
 			["filter"] = "blue dragonscale",
-		}, -- [21]
+		}, -- [22]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499837215,
 			["name"] = "red dragonscale",
 			["filter"] = "red dragonscale",
-		}, -- [22]
+		}, -- [23]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499836813,
 			["name"] = "soulcloth",
 			["filter"] = "soulcloth",
-		}, -- [23]
+		}, -- [24]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499836657,
 			["name"] = "Blood Spirit/exact",
 			["filter"] = "Blood Spirit/exact",
-		}, -- [24]
+		}, -- [25]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499836272,
 			["name"] = "Elixir of the Rapid Mind/exact",
 			["filter"] = "Elixir of the Rapid Mind/exact",
-		}, -- [25]
+		}, -- [26]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499820123,
 			["name"] = "embersilk bag",
 			["filter"] = "embersilk bag",
-		}, -- [26]
+		}, -- [27]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499798821,
 			["name"] = "Mana Thistle/exact",
 			["filter"] = "Mana Thistle/exact",
-		}, -- [27]
+		}, -- [28]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499750134,
 			["name"] = "goDLEN DR",
 			["filter"] = "goDLEN DR",
-		}, -- [28]
+		}, -- [29]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499750131,
 			["name"] = "goDLEN DRE",
 			["filter"] = "goDLEN DRE",
-		}, -- [29]
+		}, -- [30]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499749391,
 			["name"] = "leystone ore/exact",
 			["filter"] = "leystone ore/exact",
-		}, -- [30]
+		}, -- [31]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499719566,
 			["name"] = "Eternal Air/exact",
 			["filter"] = "Eternal Air/exact",
-		}, -- [31]
+		}, -- [32]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499719560,
 			["name"] = "elemental air",
 			["filter"] = "elemental air",
-		}, -- [32]
+		}, -- [33]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499719549,
 			["name"] = "eelemental air",
 			["filter"] = "eelemental air",
-		}, -- [33]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1499717471,
-			["name"] = "Bolt of Runecloth/exact",
-			["filter"] = "Bolt of Runecloth/exact",
 		}, -- [34]
 		{
 			["searchMode"] = "normal",
@@ -662,8 +643,27 @@ TradeSkillMaster_ShoppingDB = {
 			["filter"] = "Shadowruby Band",
 		}, -- [100]
 	},
-	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["_hash"] = 1861581,
+	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @minDeSearchLvl"] = 1,
 	["g@ @normalPostPrice"] = "150% dbmarket",
-	["g@ @maxDeSearchPercent"] = 1,
-	["g@ @sniperCustomPrice"] = "0c",
+	["_version"] = 3,
+	["_currentProfile"] = {
+		["Tipsyox - Bladefist"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
+		["Priestface - Kul Tiras"] = "Default",
+		["Burdell - Bladefist"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
+		["Gynum - Bladefist"] = "Default",
+		["Darrila - Bladefist"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Joopa - Bladefist"] = "Default",
+	},
 }
