@@ -1,0 +1,18 @@
+
+TradeSkillMaster_CompetitorTrackerDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Migatres - Bladefist"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Bladefist"] = {
+			["loginTime"] = 1496682918,
+			["logoutTime"] = 1496684668,
+		},
+	},
+}

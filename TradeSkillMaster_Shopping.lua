@@ -1,0 +1,669 @@
+
+TradeSkillMaster_ShoppingDB = {
+	["g@ @sniperCustomPrice"] = "0c",
+	["g@ @maxDeSearchPercent"] = 1,
+	["g@ @postUndercut"] = "1c",
+	["g@ @postBidPercent"] = 0.95,
+	["_scopeKeys"] = {
+		["char"] = {
+			"Burdell - Bladefist", -- [1]
+			"Migatres - Bladefist", -- [2]
+			"Darrila - Bladefist", -- [3]
+			"Gynum - Bladefist", -- [4]
+			"Burdell - Kil'jaeden", -- [5]
+			"Shamonculus - Kil'jaeden", -- [6]
+			"Zosimus - Bladefist", -- [7]
+			"Hardwoöd - Bladefist", -- [8]
+			"Teats - Bladefist", -- [9]
+			"Joopa - Bladefist", -- [10]
+			"Tipsyox - Bladefist", -- [11]
+			"Priestface - Kul Tiras", -- [12]
+			"Scrogeina - Kil'jaeden", -- [13]
+			"Huntymchunt - Bladefist", -- [14]
+			"Fittyeight - Kil'jaeden", -- [15]
+		},
+		["realm"] = {
+			"Bladefist", -- [1]
+			"Kil'jaeden", -- [2]
+			"Kul Tiras", -- [3]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Bladefist", -- [1]
+			"Horde - Kil'jaeden", -- [2]
+			"Horde - Kul Tiras", -- [3]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+		["auction"] = true,
+	},
+	["g@ @sniperVendorPrice"] = true,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["g@ @savedSearches"] = {
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499900342,
+			["name"] = "Bolt of Runecloth/exact",
+			["filter"] = "Bolt of Runecloth/exact",
+		}, -- [1]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499898897,
+			["name"] = "Obliterum/exact",
+			["filter"] = "Obliterum/exact",
+		}, -- [2]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499898874,
+			["name"] = "Yseralline Seed/exact",
+			["filter"] = "Yseralline Seed/exact",
+		}, -- [3]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499884659,
+			["name"] = "silk cloth/exact",
+			["filter"] = "silk cloth/exact",
+		}, -- [4]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499884604,
+			["name"] = "elemental earth",
+			["filter"] = "elemental earth",
+		}, -- [5]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499884111,
+			["name"] = "spirit of har",
+			["filter"] = "spirit of har",
+		}, -- [6]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499884104,
+			["name"] = "chaos orb",
+			["filter"] = "chaos orb",
+		}, -- [7]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499884099,
+			["name"] = "Felcloth/exact",
+			["filter"] = "Felcloth/exact",
+		}, -- [8]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499883476,
+			["name"] = "arkhana",
+			["filter"] = "arkhana",
+		}, -- [9]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499871999,
+			["name"] = "golden d",
+			["filter"] = "golden d",
+		}, -- [10]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499871995,
+			["name"] = "golden dreanite",
+			["filter"] = "golden dreanite",
+		}, -- [11]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499871973,
+			["name"] = "mooncloth",
+			["filter"] = "mooncloth",
+		}, -- [12]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499871942,
+			["name"] = "spirit of war",
+			["filter"] = "spirit of war",
+		}, -- [13]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499871712,
+			["name"] = "Green Winter Clothes/exact",
+			["filter"] = "Green Winter Clothes/exact",
+		}, -- [14]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499869097,
+			["name"] = "lavaquake",
+			["filter"] = "lavaquake",
+		}, -- [15]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837364,
+			["name"] = "titansteel",
+			["filter"] = "titansteel",
+		}, -- [16]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837310,
+			["name"] = "van-",
+			["filter"] = "van-",
+		}, -- [17]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837274,
+			["name"] = "chromatic",
+			["filter"] = "chromatic",
+		}, -- [18]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837269,
+			["name"] = "dragonscale",
+			["filter"] = "dragonscale",
+		}, -- [19]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837256,
+			["name"] = "black dragonscale",
+			["filter"] = "black dragonscale",
+		}, -- [20]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837236,
+			["name"] = "green dragonscale",
+			["filter"] = "green dragonscale",
+		}, -- [21]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837223,
+			["name"] = "blue dragonscale",
+			["filter"] = "blue dragonscale",
+		}, -- [22]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499837215,
+			["name"] = "red dragonscale",
+			["filter"] = "red dragonscale",
+		}, -- [23]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499836813,
+			["name"] = "soulcloth",
+			["filter"] = "soulcloth",
+		}, -- [24]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499836657,
+			["name"] = "Blood Spirit/exact",
+			["filter"] = "Blood Spirit/exact",
+		}, -- [25]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499836272,
+			["name"] = "Elixir of the Rapid Mind/exact",
+			["filter"] = "Elixir of the Rapid Mind/exact",
+		}, -- [26]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499820123,
+			["name"] = "embersilk bag",
+			["filter"] = "embersilk bag",
+		}, -- [27]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499798821,
+			["name"] = "Mana Thistle/exact",
+			["filter"] = "Mana Thistle/exact",
+		}, -- [28]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499750134,
+			["name"] = "goDLEN DR",
+			["filter"] = "goDLEN DR",
+		}, -- [29]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499750131,
+			["name"] = "goDLEN DRE",
+			["filter"] = "goDLEN DRE",
+		}, -- [30]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499749391,
+			["name"] = "leystone ore/exact",
+			["filter"] = "leystone ore/exact",
+		}, -- [31]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499719566,
+			["name"] = "Eternal Air/exact",
+			["filter"] = "Eternal Air/exact",
+		}, -- [32]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499719560,
+			["name"] = "elemental air",
+			["filter"] = "elemental air",
+		}, -- [33]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499719549,
+			["name"] = "eelemental air",
+			["filter"] = "eelemental air",
+		}, -- [34]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499716858,
+			["name"] = "/tsm",
+			["filter"] = "/tsm",
+		}, -- [35]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713391,
+			["name"] = "Deeprock Salt/exact",
+			["filter"] = "Deeprock Salt/exact",
+		}, -- [36]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713388,
+			["name"] = "Volatile Blasting Trigger/exact",
+			["filter"] = "Volatile Blasting Trigger/exact",
+		}, -- [37]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713385,
+			["name"] = "Scorpashi Slippers/exact",
+			["filter"] = "Scorpashi Slippers/exact",
+		}, -- [38]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713382,
+			["name"] = "Potent Belt",
+			["filter"] = "Potent Belt",
+		}, -- [39]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713378,
+			["name"] = "Eternal Shadow/exact",
+			["filter"] = "Eternal Shadow/exact",
+		}, -- [40]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713361,
+			["name"] = "Serpentskin Spaulders/exact",
+			["filter"] = "Serpentskin Spaulders/exact",
+		}, -- [41]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713359,
+			["name"] = "Councillor's Shoulders",
+			["filter"] = "Councillor's Shoulders",
+		}, -- [42]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713354,
+			["name"] = "Resplendent Gauntlets",
+			["filter"] = "Resplendent Gauntlets",
+		}, -- [43]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713344,
+			["name"] = "Traveler's Backpack/exact",
+			["filter"] = "Traveler's Backpack/exact",
+		}, -- [44]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499713338,
+			["name"] = "Pattern: Chimeric Leggings/exact",
+			["filter"] = "Pattern: Chimeric Leggings/exact",
+		}, -- [45]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499705278,
+			["name"] = "haunting spirit",
+			["filter"] = "haunting spirit",
+		}, -- [46]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499654001,
+			["name"] = "volatile fire",
+			["filter"] = "volatile fire",
+		}, -- [47]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499560220,
+			["name"] = "Shal'dorei Silk/exact",
+			["filter"] = "Shal'dorei Silk/exact",
+		}, -- [48]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499560206,
+			["name"] = "spider's silk",
+			["filter"] = "spider's silk",
+		}, -- [49]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499524928,
+			["name"] = "wool cloth/exact",
+			["filter"] = "wool cloth/exact",
+		}, -- [50]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499524591,
+			["name"] = "linen cloth/exact",
+			["filter"] = "linen cloth/exact",
+		}, -- [51]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499524225,
+			["name"] = "arknah",
+			["filter"] = "arknah",
+		}, -- [52]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499455296,
+			["name"] = "Eternal Fire/exact",
+			["filter"] = "Eternal Fire/exact",
+		}, -- [53]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499452089,
+			["name"] = "stormscale/exact",
+			["filter"] = "stormscale/exact",
+		}, -- [54]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499451858,
+			["name"] = "leystone",
+			["filter"] = "leystone",
+		}, -- [55]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499451855,
+			["name"] = "laystone",
+			["filter"] = "laystone",
+		}, -- [56]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499442518,
+			["name"] = "haunting",
+			["filter"] = "haunting",
+		}, -- [57]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499442514,
+			["name"] = "hasunting",
+			["filter"] = "hasunting",
+		}, -- [58]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499442434,
+			["name"] = "windwool cloth/exact",
+			["filter"] = "windwool cloth/exact",
+		}, -- [59]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499442391,
+			["name"] = "bloodscale",
+			["filter"] = "bloodscale",
+		}, -- [60]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499407053,
+			["name"] = "Brittle Flamereaver Hauberk",
+			["filter"] = "Brittle Flamereaver Hauberk",
+		}, -- [61]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395842,
+			["name"] = "frostweave cloth/exact",
+			["filter"] = "frostweave cloth/exact",
+		}, -- [62]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395774,
+			["name"] = "elemental",
+			["filter"] = "elemental",
+		}, -- [63]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395755,
+			["name"] = "earth",
+			["filter"] = "earth",
+		}, -- [64]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395665,
+			["name"] = "arcane dust",
+			["filter"] = "arcane dust",
+		}, -- [65]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395598,
+			["name"] = "flying carpet",
+			["filter"] = "flying carpet",
+		}, -- [66]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395588,
+			["name"] = "magic carpet",
+			["filter"] = "magic carpet",
+		}, -- [67]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395493,
+			["name"] = "wildvine",
+			["filter"] = "wildvine",
+		}, -- [68]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499395291,
+			["name"] = "Axefish Lure/exact",
+			["filter"] = "Axefish Lure/exact",
+		}, -- [69]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499374022,
+			["name"] = "rAW BEAST HIDE",
+			["filter"] = "rAW BEAST HIDE",
+		}, -- [70]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371440,
+			["name"] = "Flask of the Earth/exact",
+			["filter"] = "Flask of the Earth/exact",
+		}, -- [71]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371410,
+			["name"] = "Runic Healing Potion/exact",
+			["filter"] = "Runic Healing Potion/exact",
+		}, -- [72]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371402,
+			["name"] = "Runic Mana Potion/exact",
+			["filter"] = "Runic Mana Potion/exact",
+		}, -- [73]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371391,
+			["name"] = "Potion of Speed/exact",
+			["filter"] = "Potion of Speed/exact",
+		}, -- [74]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371383,
+			["name"] = "Relic of Ulduar/exact",
+			["filter"] = "Relic of Ulduar/exact",
+		}, -- [75]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371373,
+			["name"] = "Northsea Pearl/exact",
+			["filter"] = "Northsea Pearl/exact",
+		}, -- [76]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371346,
+			["name"] = "Super Healing Potion/exact",
+			["filter"] = "Super Healing Potion/exact",
+		}, -- [77]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371319,
+			["name"] = "Adept's Elixir/exact",
+			["filter"] = "Adept's Elixir/exact",
+		}, -- [78]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371308,
+			["name"] = "Elixir of Mastery/exact",
+			["filter"] = "Elixir of Mastery/exact",
+		}, -- [79]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499371273,
+			["name"] = "Bloodberry Elixir/exact",
+			["filter"] = "Bloodberry Elixir/exact",
+		}, -- [80]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499369672,
+			["name"] = "Sishir Cloak",
+			["filter"] = "Sishir Cloak",
+		}, -- [81]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499368580,
+			["name"] = "Defender's Roguestone/exact",
+			["filter"] = "Defender's Roguestone/exact",
+		}, -- [82]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499367057,
+			["name"] = "ghost iron ore",
+			["filter"] = "ghost iron ore",
+		}, -- [83]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499366246,
+			["name"] = "ddddddddddd",
+			["filter"] = "ddddddddddd",
+		}, -- [84]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499360956,
+			["name"] = "Bolt of Mageweave/exact",
+			["filter"] = "Bolt of Mageweave/exact",
+		}, -- [85]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499354929,
+			["name"] = "Golden Pearl/exact",
+			["filter"] = "Golden Pearl/exact",
+		}, -- [86]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499319147,
+			["name"] = "alabaster plate",
+			["filter"] = "alabaster plate",
+		}, -- [87]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499318209,
+			["name"] = "Pandaren Water Spirit",
+			["filter"] = "Pandaren Water Spirit",
+		}, -- [88]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272325,
+			["name"] = "felslate",
+			["filter"] = "felslate",
+		}, -- [89]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272306,
+			["name"] = "axefish",
+			["filter"] = "axefish",
+		}, -- [90]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272280,
+			["name"] = "halgrind",
+			["filter"] = "halgrind",
+		}, -- [91]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272258,
+			["name"] = "deepdive",
+			["filter"] = "deepdive",
+		}, -- [92]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272218,
+			["name"] = "spellbinder",
+			["filter"] = "spellbinder",
+		}, -- [93]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272215,
+			["name"] = "spellbinder's",
+			["filter"] = "spellbinder's",
+		}, -- [94]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272127,
+			["name"] = "northsea",
+			["filter"] = "northsea",
+		}, -- [95]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272116,
+			["name"] = "golden dr",
+			["filter"] = "golden dr",
+		}, -- [96]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499272096,
+			["name"] = "helcloth",
+			["filter"] = "helcloth",
+		}, -- [97]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499245209,
+			["name"] = "sumptuous fur",
+			["filter"] = "sumptuous fur",
+		}, -- [98]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499244969,
+			["name"] = "ghost iron bar",
+			["filter"] = "ghost iron bar",
+		}, -- [99]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1499244917,
+			["name"] = "Shadowruby Band",
+			["filter"] = "Shadowruby Band",
+		}, -- [100]
+	},
+	["_hash"] = 1861581,
+	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @minDeSearchLvl"] = 1,
+	["g@ @normalPostPrice"] = "150% dbmarket",
+	["_version"] = 3,
+	["_currentProfile"] = {
+		["Tipsyox - Bladefist"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
+		["Priestface - Kul Tiras"] = "Default",
+		["Burdell - Bladefist"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
+		["Gynum - Bladefist"] = "Default",
+		["Darrila - Bladefist"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Joopa - Bladefist"] = "Default",
+	},
+}

@@ -1,0 +1,12 @@
+
+TradeSkillMaster_RestockerDB = {
+	["profileKeys"] = {
+		["Zosimus - Bladefist"] = "Default",
+	},
+	["global"] = {
+		["framePosition"] = {
+			28.9999752044678, -- [1]
+			234.000045776367, -- [2]
+		},
+	},
+}

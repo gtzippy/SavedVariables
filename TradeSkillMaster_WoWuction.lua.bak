@@ -1,0 +1,10 @@
+
+TradeSkillMaster_WoWuctionDB = {
+	["profileKeys"] = {
+		["Zosimus - Bladefist"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

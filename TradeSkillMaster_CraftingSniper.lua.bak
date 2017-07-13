@@ -1,0 +1,87 @@
+
+TradeSkillMaster_CraftingSniperDB = {
+	["global"] = {
+		["treeGroupStatus"] = {
+			["groups"] = {
+				["1"] = true,
+			},
+			["scrollvalue"] = 0,
+			["fullwidth"] = 800.999755859375,
+			["treesizable"] = true,
+			["selected"] = 1,
+		},
+		["TrackUndercuts"] = false,
+	},
+	["profileKeys"] = {
+		["Priestface - Kul Tiras"] = "Default",
+		["Cataburdell - Kul Tiras"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Burdell - Bladefist"] = "Default",
+		["Icebloxrox - Kul Tiras"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Gynum - Bladefist"] = "Default",
+		["Darrila - Bladefist"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Bladefist"] = {
+			["ReportingEnabled"] = {
+				["Migatres"] = true,
+				["Gynum"] = true,
+				["Darrila"] = true,
+				["Zosimus"] = true,
+				["Burdell"] = true,
+				["Teats"] = true,
+			},
+			["MyToons"] = {
+				["Migatres"] = {
+				},
+				["Gynum"] = {
+				},
+				["Darrila"] = {
+				},
+				["Zosimus"] = {
+				},
+				["Burdell"] = {
+				},
+				["Teats"] = {
+				},
+			},
+		},
+		["Horde - Kil'jaeden"] = {
+			["ReportingEnabled"] = {
+				["Shamonculus"] = true,
+				["Burdell"] = true,
+			},
+			["MyToons"] = {
+				["Shamonculus"] = {
+				},
+				["Burdell"] = {
+				},
+			},
+		},
+		["Horde - Kul Tiras"] = {
+			["ReportingEnabled"] = {
+				["Priestface"] = true,
+				["Icebloxrox"] = true,
+			},
+			["MyToons"] = {
+				["Priestface"] = {
+				},
+				["Icebloxrox"] = {
+				},
+			},
+		},
+		["Alliance - Kul Tiras"] = {
+			["ReportingEnabled"] = {
+				["Cataburdell"] = true,
+			},
+			["MyToons"] = {
+				["Cataburdell"] = {
+				},
+			},
+		},
+	},
+}
