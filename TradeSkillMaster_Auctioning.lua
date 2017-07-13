@@ -20,60 +20,40 @@ TradeSkillMaster_AuctioningDB = {
 		["Burdell"] = true,
 		["Teats"] = true,
 		["Migatres"] = true,
-		["Lockboxes"] = true,
+		["Darrila"] = true,
 		["Gynum"] = true,
 		["Joopa"] = true,
 		["Tipsyox"] = true,
 		["Zosimus"] = true,
-		["Darrila"] = true,
+		["Lockboxes"] = true,
 	},
 	["f@Horde - Kil'jaeden@player"] = {
 		["Shamonculus"] = true,
-		["Scrogeina"] = true,
-		["Burdell"] = true,
 		["Fittyeight"] = true,
+		["Burdell"] = true,
+		["Scrogeina"] = true,
 	},
 	["_currentProfile"] = {
 		["Tipsyox - Bladefist"] = "Default",
 		["Shamonculus - Kil'jaeden"] = "Default",
 		["Zosimus - Bladefist"] = "Default",
-		["Joopa - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
 		["Migatres - Bladefist"] = "Default",
-		["Scrogeina - Kil'jaeden"] = "Default",
+		["Joopa - Bladefist"] = "Default",
 		["Priestface - Kul Tiras"] = "Default",
 		["Burdell - Bladefist"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
 		["Huntymchunt - Bladefist"] = "Default",
 		["Burdell - Kil'jaeden"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
 		["Gynum - Bladefist"] = "Default",
 		["Darrila - Bladefist"] = "Default",
 		["Teats - Bladefist"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
 	},
 	["g@ @roundNormalPrice"] = false,
-	["f@Horde - Mal'Ganis@whitelist"] = {
+	["f@Alliance - Kul Tiras@whitelist"] = {
 	},
 	["f@Horde - Kul Tiras@whitelist"] = {
-	},
-	["g@ @priceColumn"] = 1,
-	["f@Horde - Kul Tiras@player"] = {
-		["Priestface"] = true,
-		["Icebloxrox"] = true,
-	},
-	["f@Horde - Mal'Ganis@player"] = {
-		["Samakigg"] = true,
-	},
-	["f@Alliance - Bladefist@player"] = {
-		["Caity"] = true,
-	},
-	["f@Alliance - Moon Guard@whitelist"] = {
-	},
-	["f@Horde - Bladefist@whitelist"] = {
-	},
-	["g@ @matchWhitelist"] = true,
-	["f@Alliance - Bladefist@whitelist"] = {
-	},
-	["f@Horde - Kil'jaeden@whitelist"] = {
 	},
 	["_scopeKeys"] = {
 		["char"] = {
@@ -93,14 +73,6 @@ TradeSkillMaster_AuctioningDB = {
 			"Huntymchunt - Bladefist", -- [14]
 			"Fittyeight - Kil'jaeden", -- [15]
 		},
-		["realm"] = {
-			"Bladefist", -- [1]
-			"Kil'jaeden", -- [2]
-			"Kul Tiras", -- [3]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["factionrealm"] = {
 			"Horde - Bladefist", -- [1]
 			"Alliance - Kul Tiras", -- [2]
@@ -110,8 +82,36 @@ TradeSkillMaster_AuctioningDB = {
 			"Horde - Mal'Ganis", -- [6]
 			"Horde - Kil'jaeden", -- [7]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Bladefist", -- [1]
+			"Kil'jaeden", -- [2]
+			"Kul Tiras", -- [3]
+		},
+	},
+	["g@ @priceColumn"] = 1,
+	["f@Horde - Mal'Ganis@player"] = {
+		["Samakigg"] = true,
+	},
+	["f@Horde - Kil'jaeden@whitelist"] = {
+	},
+	["f@Alliance - Moon Guard@whitelist"] = {
+	},
+	["f@Horde - Bladefist@whitelist"] = {
+	},
+	["g@ @matchWhitelist"] = true,
+	["f@Alliance - Bladefist@whitelist"] = {
+	},
+	["f@Alliance - Bladefist@player"] = {
+		["Caity"] = true,
+	},
+	["f@Horde - Kul Tiras@player"] = {
+		["Priestface"] = true,
+		["Icebloxrox"] = true,
 	},
 	["_version"] = 1,
-	["f@Alliance - Kul Tiras@whitelist"] = {
+	["f@Horde - Mal'Ganis@whitelist"] = {
 	},
 }
