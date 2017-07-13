@@ -40,25 +40,25 @@ TradeSkillMaster_ShoppingDB = {
 		["auction"] = true,
 	},
 	["g@ @sniperVendorPrice"] = true,
-	["_hash"] = 1861581,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1499900342,
-			["name"] = "Bolt of Runecloth/exact",
-			["filter"] = "Bolt of Runecloth/exact",
+			["lastSearch"] = 1499958359,
+			["name"] = "Yseralline Seed/exact",
+			["filter"] = "Yseralline Seed/exact",
 		}, -- [1]
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1499898897,
+			["lastSearch"] = 1499958343,
 			["name"] = "Obliterum/exact",
 			["filter"] = "Obliterum/exact",
 		}, -- [2]
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1499898874,
-			["name"] = "Yseralline Seed/exact",
-			["filter"] = "Yseralline Seed/exact",
+			["lastSearch"] = 1499900342,
+			["name"] = "Bolt of Runecloth/exact",
+			["filter"] = "Bolt of Runecloth/exact",
 		}, -- [3]
 		{
 			["searchMode"] = "normal",
@@ -643,7 +643,7 @@ TradeSkillMaster_ShoppingDB = {
 			["filter"] = "Shadowruby Band",
 		}, -- [100]
 	},
-	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["_hash"] = 1861581,
 	["g@ @marketValueSource"] = "dbmarket",
 	["g@ @maxDeSearchLvl"] = 735,
 	["g@ @minDeSearchLvl"] = 1,
@@ -653,17 +653,17 @@ TradeSkillMaster_ShoppingDB = {
 		["Tipsyox - Bladefist"] = "Default",
 		["Shamonculus - Kil'jaeden"] = "Default",
 		["Zosimus - Bladefist"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
 		["Migatres - Bladefist"] = "Default",
-		["Joopa - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
 		["Priestface - Kul Tiras"] = "Default",
 		["Burdell - Bladefist"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
 		["Huntymchunt - Bladefist"] = "Default",
 		["Burdell - Kil'jaeden"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
 		["Gynum - Bladefist"] = "Default",
 		["Darrila - Bladefist"] = "Default",
 		["Teats - Bladefist"] = "Default",
-		["Scrogeina - Kil'jaeden"] = "Default",
+		["Joopa - Bladefist"] = "Default",
 	},
 }
