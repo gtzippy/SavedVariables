@@ -7,11 +7,11 @@ TradeSkillMaster_ZotweeDB = {
 		["Migatres - Bladefist"] = "Default",
 		["Joopa - Bladefist"] = "Default",
 		["Burdell - Bladefist"] = "Default",
+		["Priestface - Kul Tiras"] = "Default",
 		["Hardwoöd - Bladefist"] = "Default",
-		["Burdell - Kil'jaeden"] = "Default",
 		["Gynum - Bladefist"] = "Default",
 		["Darrila - Bladefist"] = "Default",
 		["Teats - Bladefist"] = "Default",
-		["Priestface - Kul Tiras"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
 	},
 }
