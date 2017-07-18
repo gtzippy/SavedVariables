@@ -1,29 +1,29 @@
 
 TradeSkillMaster_CraftingSniperDB = {
-	["profileKeys"] = {
-		["Priestface - Kul Tiras"] = "Default",
-		["Cataburdell - Kul Tiras"] = "Default",
-		["Migatres - Bladefist"] = "Default",
-		["Burdell - Bladefist"] = "Default",
-		["Icebloxrox - Kul Tiras"] = "Default",
-		["Zosimus - Bladefist"] = "Default",
-		["Burdell - Kil'jaeden"] = "Default",
-		["Gynum - Bladefist"] = "Default",
-		["Darrila - Bladefist"] = "Default",
-		["Teats - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
-	},
 	["global"] = {
 		["treeGroupStatus"] = {
 			["groups"] = {
 				["1"] = true,
 			},
 			["scrollvalue"] = 0,
-			["selected"] = 1,
-			["treesizable"] = true,
 			["fullwidth"] = 800.999755859375,
+			["treesizable"] = true,
+			["selected"] = 1,
 		},
 		["TrackUndercuts"] = false,
+	},
+	["profileKeys"] = {
+		["Priestface - Kul Tiras"] = "Default",
+		["Cataburdell - Kul Tiras"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Burdell - Bladefist"] = "Default",
+		["Icebloxrox - Kul Tiras"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Gynum - Bladefist"] = "Default",
+		["Darrila - Bladefist"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
 	},
 	["factionrealm"] = {
 		["Horde - Bladefist"] = {

@@ -21,22 +21,37 @@ TradeSkillMaster_DestroyingDB = {
 			"Huntymchunt - Bladefist", -- [13]
 			"Fittyeight - Kil'jaeden", -- [14]
 		},
-		["realm"] = {
-			"Bladefist", -- [1]
-			"Kil'jaeden", -- [2]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["factionrealm"] = {
 			"Horde - Bladefist", -- [1]
 			"Horde - Kil'jaeden", -- [2]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Bladefist", -- [1]
+			"Kil'jaeden", -- [2]
+		},
 	},
 	["g@ @autoShow"] = true,
 	["g@ @autoStack"] = true,
-	["g@ @logDays"] = 14,
-	["g@ @deAbovePrice"] = "0c",
+	["_currentProfile"] = {
+		["Tipsyox - Bladefist"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Joopa - Bladefist"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
+		["Burdell - Bladefist"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Gynum - Bladefist"] = "Default",
+		["Darrila - Bladefist"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
+	},
+	["_version"] = 1,
 	["g@ @history"] = {
 		["Milling"] = {
 			{
@@ -1178,24 +1193,9 @@ TradeSkillMaster_DestroyingDB = {
 	["g@ @helpPlatesShown"] = {
 		["destroyingFrame"] = true,
 	},
-	["_hash"] = 14107345,
 	["g@ @includeSoulbound"] = false,
+	["_hash"] = 14107345,
 	["g@ @deMaxQuality"] = 3,
-	["_version"] = 1,
-	["_currentProfile"] = {
-		["Tipsyox - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
-		["Zosimus - Bladefist"] = "Default",
-		["Migatres - Bladefist"] = "Default",
-		["Joopa - Bladefist"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
-		["Burdell - Bladefist"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
-		["Burdell - Kil'jaeden"] = "Default",
-		["Gynum - Bladefist"] = "Default",
-		["Darrila - Bladefist"] = "Default",
-		["Teats - Bladefist"] = "Default",
-		["Scrogeina - Kil'jaeden"] = "Default",
-	},
+	["g@ @deAbovePrice"] = "0c",
+	["g@ @logDays"] = 14,
 }
