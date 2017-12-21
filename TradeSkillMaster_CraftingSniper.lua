@@ -16,6 +16,9 @@ TradeSkillMaster_CraftingSniperDB = {
 		["Priestface - Kul Tiras"] = "Default",
 		["Cataburdell - Kul Tiras"] = "Default",
 		["Migatres - Bladefist"] = "Default",
+		["Rocksnstalks - Kil'jaeden"] = "Default",
+		["Bounceygirl - Kil'jaeden"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
 		["Burdell - Bladefist"] = "Default",
 		["Icebloxrox - Kul Tiras"] = "Default",
 		["Shamonculus - Kil'jaeden"] = "Default",
@@ -61,11 +64,20 @@ TradeSkillMaster_CraftingSniperDB = {
 		},
 		["Horde - Kil'jaeden"] = {
 			["ReportingEnabled"] = {
+				["Fittyeight"] = true,
+				["Bounceygirl"] = true,
 				["Shamonculus"] = true,
+				["Rocksnstalks"] = true,
 				["Burdell"] = true,
 			},
 			["MyToons"] = {
+				["Fittyeight"] = {
+				},
+				["Bounceygirl"] = {
+				},
 				["Shamonculus"] = {
+				},
+				["Rocksnstalks"] = {
 				},
 				["Burdell"] = {
 				},

@@ -3,15 +3,18 @@ TradeSkillMaster_CraftingSniperDB = {
 	["profileKeys"] = {
 		["Priestface - Kul Tiras"] = "Default",
 		["Cataburdell - Kul Tiras"] = "Default",
-		["Migatres - Bladefist"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+		["Rocksnstalks - Kil'jaeden"] = "Default",
+		["Bounceygirl - Kil'jaeden"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
 		["Burdell - Bladefist"] = "Default",
 		["Icebloxrox - Kul Tiras"] = "Default",
-		["Zosimus - Bladefist"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
 		["Burdell - Kil'jaeden"] = "Default",
 		["Gynum - Bladefist"] = "Default",
 		["Darrila - Bladefist"] = "Default",
 		["Teats - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
+		["Migatres - Bladefist"] = "Default",
 	},
 	["global"] = {
 		["treeGroupStatus"] = {
@@ -52,11 +55,20 @@ TradeSkillMaster_CraftingSniperDB = {
 		},
 		["Horde - Kil'jaeden"] = {
 			["ReportingEnabled"] = {
+				["Fittyeight"] = true,
+				["Bounceygirl"] = true,
 				["Shamonculus"] = true,
+				["Rocksnstalks"] = true,
 				["Burdell"] = true,
 			},
 			["MyToons"] = {
+				["Fittyeight"] = {
+				},
+				["Bounceygirl"] = {
+				},
 				["Shamonculus"] = {
+				},
+				["Rocksnstalks"] = {
 				},
 				["Burdell"] = {
 				},

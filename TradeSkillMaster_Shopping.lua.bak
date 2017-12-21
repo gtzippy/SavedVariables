@@ -53,603 +53,603 @@ TradeSkillMaster_ShoppingDB = {
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
+			["lastSearch"] = 1513889007,
+			["name"] = "silk cloth/exact",
+			["filter"] = "silk cloth/exact",
+		}, -- [1]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1513888881,
+			["name"] = "Bolt of Silk Cloth/exact",
+			["filter"] = "Bolt of Silk Cloth/exact",
+		}, -- [2]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1513880994,
+			["name"] = "righteous",
+			["filter"] = "righteous",
+		}, -- [3]
+		{
+			["searchMode"] = "normal",
 			["lastSearch"] = 1513784409,
 			["name"] = "Hexweave Mantle",
 			["filter"] = "Hexweave Mantle",
-		}, -- [1]
+		}, -- [4]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513784390,
 			["name"] = "Green Winter Clothes/exact",
 			["filter"] = "Green Winter Clothes/exact",
-		}, -- [2]
+		}, -- [5]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513701388,
 			["name"] = "abyss crystal",
 			["filter"] = "abyss crystal",
-		}, -- [3]
+		}, -- [6]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513695670,
 			["name"] = "spirit of war",
 			["filter"] = "spirit of war",
-		}, -- [4]
+		}, -- [7]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513695658,
 			["name"] = "haunting spirit",
 			["filter"] = "haunting spirit",
-		}, -- [5]
+		}, -- [8]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513695414,
 			["name"] = "windwool cloth/exact",
 			["filter"] = "windwool cloth/exact",
-		}, -- [6]
+		}, -- [9]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513634962,
 			["name"] = "small egg",
 			["filter"] = "small egg",
-		}, -- [7]
+		}, -- [10]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513633528,
 			["name"] = "Flarecore Gloves/exact",
 			["filter"] = "Flarecore Gloves/exact",
-		}, -- [8]
+		}, -- [11]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513476399,
 			["name"] = "rAPID mind",
 			["filter"] = "rAPID mind",
-		}, -- [9]
+		}, -- [12]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513449910,
 			["name"] = "Elixir of the Rapid Mind/exact",
 			["filter"] = "Elixir of the Rapid Mind/exact",
-		}, -- [10]
+		}, -- [13]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513445912,
 			["name"] = "sumptuous fur",
 			["filter"] = "sumptuous fur",
-		}, -- [11]
+		}, -- [14]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513445848,
 			["name"] = "chaos orb",
 			["filter"] = "chaos orb",
-		}, -- [12]
+		}, -- [15]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513359275,
 			["name"] = "Illusionary Bag/exact",
 			["filter"] = "Illusionary Bag/exact",
-		}, -- [13]
+		}, -- [16]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513131830,
 			["name"] = "Flask of the Whispered Pact/exact",
 			["filter"] = "Flask of the Whispered Pact/exact",
-		}, -- [14]
+		}, -- [17]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513047311,
 			["name"] = "flask of",
 			["filter"] = "flask of",
-		}, -- [15]
+		}, -- [18]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513028934,
 			["name"] = "Nexus Crystal/exact",
 			["filter"] = "Nexus Crystal/exact",
-		}, -- [16]
+		}, -- [19]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513028914,
 			["name"] = "Large Prismatic Shard/exact",
 			["filter"] = "Large Prismatic Shard/exact",
-		}, -- [17]
+		}, -- [20]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1513027181,
 			["name"] = "Infinite Dust/exact",
 			["filter"] = "Infinite Dust/exact",
-		}, -- [18]
+		}, -- [21]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512679197,
 			["name"] = "Greater Cosmic Essence/exact",
 			["filter"] = "Greater Cosmic Essence/exact",
-		}, -- [19]
+		}, -- [22]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512667524,
 			["name"] = "fj",
 			["filter"] = "fj",
-		}, -- [20]
+		}, -- [23]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512666689,
 			["name"] = "Yseralline Seed/exact",
 			["filter"] = "Yseralline Seed/exact",
-		}, -- [21]
+		}, -- [24]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512656205,
 			["name"] = "anyss",
 			["filter"] = "anyss",
-		}, -- [22]
+		}, -- [25]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512587485,
 			["name"] = "small prismatic",
 			["filter"] = "small prismatic",
-		}, -- [23]
+		}, -- [26]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512582692,
 			["name"] = "frostweave cloth/exact",
 			["filter"] = "frostweave cloth/exact",
-		}, -- [24]
+		}, -- [27]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512581912,
 			["name"] = "netherweave cloth/exact",
 			["filter"] = "netherweave cloth/exact",
-		}, -- [25]
+		}, -- [28]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512580004,
 			["name"] = "shal'dorei silk",
 			["filter"] = "shal'dorei silk",
-		}, -- [26]
+		}, -- [29]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512579981,
 			["name"] = "silkweave ",
 			["filter"] = "silkweave ",
-		}, -- [27]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1512579888,
-			["name"] = "silk cloth/exact",
-			["filter"] = "silk cloth/exact",
-		}, -- [28]
+		}, -- [30]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512579867,
 			["name"] = "blood spirit",
 			["filter"] = "blood spirit",
-		}, -- [29]
+		}, -- [31]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512579690,
 			["name"] = "elixir of widsom",
 			["filter"] = "elixir of widsom",
-		}, -- [30]
+		}, -- [32]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512576140,
 			["name"] = "Prismatic Sphere/exact",
 			["filter"] = "Prismatic Sphere/exact",
-		}, -- [31]
+		}, -- [33]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512575079,
 			["name"] = "nexus crystal",
 			["filter"] = "nexus crystal",
-		}, -- [32]
+		}, -- [34]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512526791,
 			["name"] = "Primal Obliterum/exact",
 			["filter"] = "Primal Obliterum/exact",
-		}, -- [33]
+		}, -- [35]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512526746,
 			["name"] = "Obliterum/exact",
 			["filter"] = "Obliterum/exact",
-		}, -- [34]
+		}, -- [36]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512511226,
 			["name"] = "Deadly Eye of Prophecy/exact",
 			["filter"] = "Deadly Eye of Prophecy/exact",
-		}, -- [35]
+		}, -- [37]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512511144,
 			["name"] = "Potion of Prolonged Power/exact",
 			["filter"] = "Potion of Prolonged Power/exact",
-		}, -- [36]
+		}, -- [38]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1512417678,
 			["name"] = "Slice of Bacon/exact",
 			["filter"] = "Slice of Bacon/exact",
-		}, -- [37]
+		}, -- [39]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1511922217,
 			["name"] = "Tome of the Tranquil Mind/exact",
 			["filter"] = "Tome of the Tranquil Mind/exact",
-		}, -- [38]
+		}, -- [40]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1511922146,
 			["name"] = "trained soldier",
 			["filter"] = "trained soldier",
-		}, -- [39]
+		}, -- [41]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1511729264,
 			["name"] = "arkhana",
 			["filter"] = "arkhana",
-		}, -- [40]
+		}, -- [42]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1510762363,
 			["name"] = "arkana",
 			["filter"] = "arkana",
-		}, -- [41]
+		}, -- [43]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1509556827,
 			["name"] = "/camp",
 			["filter"] = "/camp",
-		}, -- [42]
+		}, -- [44]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508872588,
 			["name"] = "void crystal",
 			["filter"] = "void crystal",
-		}, -- [43]
+		}, -- [45]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508258948,
 			["name"] = "linen cloth",
 			["filter"] = "linen cloth",
-		}, -- [44]
+		}, -- [46]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508257346,
 			["name"] = "felcloth",
 			["filter"] = "felcloth",
-		}, -- [45]
+		}, -- [47]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508257343,
 			["name"] = "fel cloth",
 			["filter"] = "fel cloth",
-		}, -- [46]
+		}, -- [48]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508257331,
 			["name"] = "black pearl",
 			["filter"] = "black pearl",
-		}, -- [47]
+		}, -- [49]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508257324,
 			["name"] = "golden pearl",
 			["filter"] = "golden pearl",
-		}, -- [48]
+		}, -- [50]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508172537,
 			["name"] = "Mercurial Guard",
 			["filter"] = "Mercurial Guard",
-		}, -- [49]
+		}, -- [51]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508172535,
 			["name"] = "Elegant Scepter",
 			["filter"] = "Elegant Scepter",
-		}, -- [50]
+		}, -- [52]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508172524,
 			["name"] = "Plans: Dark Iron Sunderer/exact",
 			["filter"] = "Plans: Dark Iron Sunderer/exact",
-		}, -- [51]
+		}, -- [53]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508172512,
 			["name"] = "Greater Celestial Essence/exact",
 			["filter"] = "Greater Celestial Essence/exact",
-		}, -- [52]
+		}, -- [54]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508172482,
 			["name"] = "Lesser Celestial Essence/exact",
 			["filter"] = "Lesser Celestial Essence/exact",
-		}, -- [53]
+		}, -- [55]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508171390,
 			["name"] = "mooncloth robe",
 			["filter"] = "mooncloth robe",
-		}, -- [54]
+		}, -- [56]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507735200,
 			["name"] = "Vision Dust/exact",
 			["filter"] = "Vision Dust/exact",
-		}, -- [55]
+		}, -- [57]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507583462,
 			["name"] = "hexweave bag",
 			["filter"] = "hexweave bag",
-		}, -- [56]
+		}, -- [58]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507583452,
 			["name"] = "bolt of embersilk cloth",
 			["filter"] = "bolt of embersilk cloth",
-		}, -- [57]
+		}, -- [59]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507583442,
 			["name"] = "embersilk cloth",
 			["filter"] = "embersilk cloth",
-		}, -- [58]
+		}, -- [60]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507583432,
 			["name"] = "bolt of embersilk",
 			["filter"] = "bolt of embersilk",
-		}, -- [59]
+		}, -- [61]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507580109,
 			["name"] = "Mini Mindslayer",
 			["filter"] = "Mini Mindslayer",
-		}, -- [60]
+		}, -- [62]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507565906,
 			["name"] = "dragonscale",
 			["filter"] = "dragonscale",
-		}, -- [61]
+		}, -- [63]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507565435,
 			["name"] = "black dragonscale",
 			["filter"] = "black dragonscale",
-		}, -- [62]
+		}, -- [64]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507565428,
 			["name"] = "blackdragon scale",
 			["filter"] = "blackdragon scale",
-		}, -- [63]
+		}, -- [65]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507303688,
 			["name"] = "Enchant Weapon - Mongoose/exact",
 			["filter"] = "Enchant Weapon - Mongoose/exact",
-		}, -- [64]
+		}, -- [66]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507302838,
 			["name"] = "Hypnotic Dust/exact",
 			["filter"] = "Hypnotic Dust/exact",
-		}, -- [65]
+		}, -- [67]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507222592,
 			["name"] = "embersilk bag",
 			["filter"] = "embersilk bag",
-		}, -- [66]
+		}, -- [68]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507133135,
 			["name"] = "Enchant Weapon - Mending/exact",
 			["filter"] = "Enchant Weapon - Mending/exact",
-		}, -- [67]
+		}, -- [69]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507131709,
 			["name"] = "Revenant Chestplate",
 			["filter"] = "Revenant Chestplate",
-		}, -- [68]
+		}, -- [70]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507131697,
 			["name"] = "Cenarion Belt/exact",
 			["filter"] = "Cenarion Belt/exact",
-		}, -- [69]
+		}, -- [71]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507126961,
 			["name"] = "windwool",
 			["filter"] = "windwool",
-		}, -- [70]
+		}, -- [72]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507126942,
 			["name"] = "mooncloth shoulders",
 			["filter"] = "mooncloth shoulders",
-		}, -- [71]
+		}, -- [73]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507126295,
 			["name"] = "greater Planar Essence/exact",
 			["filter"] = "greater Planar Essence/exact",
-		}, -- [72]
+		}, -- [74]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507126234,
 			["name"] = "Lesser Planar Essence/exact",
 			["filter"] = "Lesser Planar Essence/exact",
-		}, -- [73]
+		}, -- [75]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507091428,
 			["name"] = "Enchant Shield - Resilience/exact",
 			["filter"] = "Enchant Shield - Resilience/exact",
-		}, -- [74]
+		}, -- [76]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507091427,
 			["name"] = "Black Diamond/exact",
 			["filter"] = "Black Diamond/exact",
-		}, -- [75]
+		}, -- [77]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507091425,
 			["name"] = "Small Radiant Shard/exact",
 			["filter"] = "Small Radiant Shard/exact",
-		}, -- [76]
+		}, -- [78]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507091419,
 			["name"] = "Dream Shard/exact",
 			["filter"] = "Dream Shard/exact",
-		}, -- [77]
+		}, -- [79]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507091411,
 			["name"] = "Enchant Weapon - Fiery Weapon/exact",
 			["filter"] = "Enchant Weapon - Fiery Weapon/exact",
-		}, -- [78]
+		}, -- [80]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507044658,
 			["name"] = "Lesser Nether Essence/exact",
 			["filter"] = "Lesser Nether Essence/exact",
-		}, -- [79]
+		}, -- [81]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507042661,
 			["name"] = "bolt of netherweave/exact",
 			["filter"] = "bolt of netherweave/exact",
-		}, -- [80]
+		}, -- [82]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507040985,
 			["name"] = "runecloth",
 			["filter"] = "runecloth",
-		}, -- [81]
+		}, -- [83]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506998886,
 			["name"] = "Greater Nether Essence/exact",
 			["filter"] = "Greater Nether Essence/exact",
-		}, -- [82]
+		}, -- [84]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506960683,
 			["name"] = "Large Brilliant Shard/exact",
 			["filter"] = "Large Brilliant Shard/exact",
-		}, -- [83]
+		}, -- [85]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506960677,
 			["name"] = "Lesser Eternal Essence/exact",
 			["filter"] = "Lesser Eternal Essence/exact",
-		}, -- [84]
+		}, -- [86]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506960670,
 			["name"] = "Greater Eternal Essence/exact",
 			["filter"] = "Greater Eternal Essence/exact",
-		}, -- [85]
+		}, -- [87]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506804539,
 			["name"] = "Formula: Superior Mana Oil/exact",
 			["filter"] = "Formula: Superior Mana Oil/exact",
-		}, -- [86]
+		}, -- [88]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506804537,
 			["name"] = "Formula: Enchant Shield - Major Stamina/exact",
 			["filter"] = "Formula: Enchant Shield - Major Stamina/exact",
-		}, -- [87]
+		}, -- [89]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506804534,
 			["name"] = "Formula: Superior Wizard Oil/exact",
 			["filter"] = "Formula: Superior Wizard Oil/exact",
-		}, -- [88]
+		}, -- [90]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506804530,
 			["name"] = "Formula: Large Prismatic Shard/exact",
 			["filter"] = "Formula: Large Prismatic Shard/exact",
-		}, -- [89]
+		}, -- [91]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506712321,
 			["name"] = "mageweave cloth",
 			["filter"] = "mageweave cloth",
-		}, -- [90]
+		}, -- [92]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506712050,
 			["name"] = "arcane dust",
 			["filter"] = "arcane dust",
-		}, -- [91]
+		}, -- [93]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506702646,
 			["name"] = "greater planar",
 			["filter"] = "greater planar",
-		}, -- [92]
+		}, -- [94]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506702598,
 			["name"] = "large prismatic",
 			["filter"] = "large prismatic",
-		}, -- [93]
+		}, -- [95]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506700611,
 			["name"] = "Sorcerous earth/exact",
 			["filter"] = "Sorcerous earth/exact",
-		}, -- [94]
+		}, -- [96]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506700603,
 			["name"] = "Sorcerous Water/exact",
 			["filter"] = "Sorcerous Water/exact",
-		}, -- [95]
+		}, -- [97]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506697640,
 			["name"] = "sumptuous",
 			["filter"] = "sumptuous",
-		}, -- [96]
+		}, -- [98]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506696325,
 			["name"] = "crusader",
 			["filter"] = "crusader",
-		}, -- [97]
+		}, -- [99]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506696322,
 			["name"] = "Crusader's Helm",
 			["filter"] = "Crusader's Helm",
-		}, -- [98]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1506633985,
-			["name"] = "small radiant",
-			["filter"] = "small radiant",
-		}, -- [99]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1506633780,
-			["name"] = "embersilk",
-			["filter"] = "embersilk",
 		}, -- [100]
 	},
 	["_hash"] = 1861581,

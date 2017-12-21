@@ -25,6 +25,8 @@ TradeSkillMaster_WarehousingDB = {
 			"Huntymchunt - Bladefist", -- [13]
 			"Fittyeight - Kil'jaeden", -- [14]
 			"Caity - Bladefist", -- [15]
+			"Bounceygirl - Kil'jaeden", -- [16]
+			"Rocksnstalks - Kil'jaeden", -- [17]
 		},
 		["realm"] = {
 			"Bladefist", -- [1]
@@ -42,19 +44,21 @@ TradeSkillMaster_WarehousingDB = {
 	["_version"] = 1,
 	["_currentProfile"] = {
 		["Tipsyox - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
-		["Zosimus - Bladefist"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
 		["Migatres - Bladefist"] = "Default",
 		["Joopa - Bladefist"] = "Default",
-		["Teats - Bladefist"] = "Default",
 		["Burdell - Bladefist"] = "Default",
-		["Burdell - Kil'jaeden"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
 		["Hardwoöd - Bladefist"] = "Default",
 		["Gynum - Bladefist"] = "Default",
 		["Darrila - Bladefist"] = "Default",
 		["Caity - Bladefist"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
 		["Scrogeina - Kil'jaeden"] = "Default",
+		["Rocksnstalks - Kil'jaeden"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Bounceygirl - Kil'jaeden"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
 	},
 }
