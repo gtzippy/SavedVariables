@@ -1,9 +1,12 @@
 
 TradeSkillMaster_WarehousingDB = {
-	["_hash"] = 185553,
 	["f@Horde - Bladefist@BagState"] = {
 	},
+	["_hash"] = 185553,
 	["g@ @ShowLogData"] = false,
+	["_version"] = 1,
+	["f@Alliance - Bladefist@BagState"] = {
+	},
 	["_scopeKeys"] = {
 		["char"] = {
 			"Burdell - Bladefist", -- [1]
@@ -20,36 +23,38 @@ TradeSkillMaster_WarehousingDB = {
 			"Scrogeina - Kil'jaeden", -- [12]
 			"Huntymchunt - Bladefist", -- [13]
 			"Fittyeight - Kil'jaeden", -- [14]
+			"Caity - Bladefist", -- [15]
+		},
+		["factionrealm"] = {
+			"Horde - Bladefist", -- [1]
+			"Horde - Kil'jaeden", -- [2]
+			"Alliance - Bladefist", -- [3]
+		},
+		["profile"] = {
+			"Default", -- [1]
 		},
 		["realm"] = {
 			"Bladefist", -- [1]
 			"Kil'jaeden", -- [2]
 		},
-		["profile"] = {
-			"Default", -- [1]
-		},
-		["factionrealm"] = {
-			"Horde - Bladefist", -- [1]
-			"Horde - Kil'jaeden", -- [2]
-		},
 	},
 	["f@Horde - Kil'jaeden@BagState"] = {
 	},
-	["_version"] = 1,
 	["_currentProfile"] = {
 		["Tipsyox - Bladefist"] = "Default",
 		["Shamonculus - Kil'jaeden"] = "Default",
 		["Zosimus - Bladefist"] = "Default",
-		["Migatres - Bladefist"] = "Default",
 		["Joopa - Bladefist"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
+		["Caity - Bladefist"] = "Default",
 		["Burdell - Bladefist"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
 		["Burdell - Kil'jaeden"] = "Default",
 		["Huntymchunt - Bladefist"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
 		["Gynum - Bladefist"] = "Default",
 		["Darrila - Bladefist"] = "Default",
 		["Teats - Bladefist"] = "Default",
-		["Scrogeina - Kil'jaeden"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
 	},
 }

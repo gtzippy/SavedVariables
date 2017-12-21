@@ -12,9 +12,11 @@ TradeSkillMaster_VendoringDB = {
 			"Joopa - Bladefist", -- [7]
 			"Tipsyox - Bladefist", -- [8]
 			"Huntymchunt - Bladefist", -- [9]
+			"Caity - Bladefist", -- [10]
 		},
 		["factionrealm"] = {
 			"Horde - Bladefist", -- [1]
+			"Alliance - Bladefist", -- [2]
 		},
 		["profile"] = {
 			"Default", -- [1]
@@ -36,8 +38,9 @@ TradeSkillMaster_VendoringDB = {
 		["Burdell - Bladefist"] = "Default",
 		["Hardwoöd - Bladefist"] = "Default",
 		["Gynum - Bladefist"] = "Default",
-		["Teats - Bladefist"] = "Default",
 		["Huntymchunt - Bladefist"] = "Default",
+		["Caity - Bladefist"] = "Default",
+		["Teats - Bladefist"] = "Default",
 	},
 	["g@ @qsHideSoulbound"] = true,
 	["g@ @defaultPage"] = 1,
