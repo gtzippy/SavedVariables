@@ -1,31 +1,8 @@
 
 TradeSkillMaster_ShoppingDB = {
-	["_currentProfile"] = {
-		["Tipsyox - Bladefist"] = "Default",
-		["Mchuntface - Kil'jaeden"] = "Default",
-		["Migatres - Bladefist"] = "Default",
-		["Joopa - Bladefist"] = "Default",
-		["Burdell - Bladefist"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
-		["Gynum - Bladefist"] = "Default",
-		["Darrila - Bladefist"] = "Default",
-		["Caity - Bladefist"] = "Default",
-		["Priestface - Kul Tiras"] = "Default",
-		["Zosimus - Bladefist"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
-		["Scrogeina - Kil'jaeden"] = "Default",
-		["Sillyname - Kil'jaeden"] = "Default",
-		["Burdell - Kil'jaeden"] = "Default",
-		["Rocksnstalks - Kil'jaeden"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
-		["Teatsmcangry - Kil'jaeden"] = "Default",
-		["Gynum - Kil'jaeden"] = "Default",
-		["Teats - Bladefist"] = "Default",
-		["Bounceygirl - Kil'jaeden"] = "Default",
-	},
-	["_version"] = 3,
-	["g@ @sniperVendorPrice"] = true,
+	["g@ @sniperCustomPrice"] = "0c",
+	["g@ @maxDeSearchPercent"] = 1,
+	["g@ @postUndercut"] = "1c",
 	["g@ @postBidPercent"] = 0.95,
 	["_scopeKeys"] = {
 		["char"] = {
@@ -52,6 +29,14 @@ TradeSkillMaster_ShoppingDB = {
 			"Bounceygirl - Kil'jaeden", -- [21]
 			"Sillyname - Kil'jaeden", -- [22]
 		},
+		["realm"] = {
+			"Bladefist", -- [1]
+			"Kil'jaeden", -- [2]
+			"Kul Tiras", -- [3]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
 		["factionrealm"] = {
 			"Horde - Bladefist", -- [1]
 			"Horde - Kil'jaeden", -- [2]
@@ -59,23 +44,12 @@ TradeSkillMaster_ShoppingDB = {
 			"Alliance - Bladefist", -- [4]
 			"Neutral - Kil'jaeden", -- [5]
 		},
-		["profile"] = {
-			"Default", -- [1]
-		},
-		["realm"] = {
-			"Bladefist", -- [1]
-			"Kil'jaeden", -- [2]
-			"Kul Tiras", -- [3]
-		},
 	},
 	["g@ @helpPlatesShown"] = {
 		["auction"] = true,
 	},
-	["g@ @postUndercut"] = "1c",
-	["g@ @minDeSearchLvl"] = 1,
-	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @sniperVendorPrice"] = true,
 	["g@ @sniperSound"] = "TSM_NO_SOUND",
-	["g@ @marketValueSource"] = "dbmarket",
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
@@ -679,7 +653,33 @@ TradeSkillMaster_ShoppingDB = {
 		}, -- [100]
 	},
 	["_hash"] = 1861581,
+	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @minDeSearchLvl"] = 1,
 	["g@ @normalPostPrice"] = "150% dbmarket",
-	["g@ @maxDeSearchPercent"] = 1,
-	["g@ @sniperCustomPrice"] = "0c",
+	["_version"] = 3,
+	["_currentProfile"] = {
+		["Tipsyox - Bladefist"] = "Default",
+		["Mchuntface - Kil'jaeden"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Joopa - Bladefist"] = "Default",
+		["Burdell - Bladefist"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
+		["Gynum - Bladefist"] = "Default",
+		["Darrila - Bladefist"] = "Default",
+		["Caity - Bladefist"] = "Default",
+		["Priestface - Kul Tiras"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
+		["Bounceygirl - Kil'jaeden"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Gynum - Kil'jaeden"] = "Default",
+		["Teatsmcangry - Kil'jaeden"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
+		["Rocksnstalks - Kil'jaeden"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Sillyname - Kil'jaeden"] = "Default",
+	},
 }

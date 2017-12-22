@@ -28,46 +28,24 @@ TradeSkillMaster_DestroyingDB = {
 			"Bounceygirl - Kil'jaeden", -- [20]
 			"Sillyname - Kil'jaeden", -- [21]
 		},
+		["realm"] = {
+			"Bladefist", -- [1]
+			"Kil'jaeden", -- [2]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
 		["factionrealm"] = {
 			"Horde - Bladefist", -- [1]
 			"Horde - Kil'jaeden", -- [2]
 			"Alliance - Bladefist", -- [3]
 			"Neutral - Kil'jaeden", -- [4]
 		},
-		["profile"] = {
-			"Default", -- [1]
-		},
-		["realm"] = {
-			"Bladefist", -- [1]
-			"Kil'jaeden", -- [2]
-		},
 	},
 	["g@ @autoShow"] = true,
 	["g@ @autoStack"] = true,
-	["_currentProfile"] = {
-		["Tipsyox - Bladefist"] = "Default",
-		["Mchuntface - Kil'jaeden"] = "Default",
-		["Migatres - Bladefist"] = "Default",
-		["Joopa - Bladefist"] = "Default",
-		["Burdell - Bladefist"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
-		["Gynum - Bladefist"] = "Default",
-		["Darrila - Bladefist"] = "Default",
-		["Caity - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
-		["Zosimus - Bladefist"] = "Default",
-		["Teatsmcangry - Kil'jaeden"] = "Default",
-		["Scrogeina - Kil'jaeden"] = "Default",
-		["Sillyname - Kil'jaeden"] = "Default",
-		["Gynum - Kil'jaeden"] = "Default",
-		["Rocksnstalks - Kil'jaeden"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
-		["Burdell - Kil'jaeden"] = "Default",
-		["Fittyeight - Kil'jaeden"] = "Default",
-		["Teats - Bladefist"] = "Default",
-		["Bounceygirl - Kil'jaeden"] = "Default",
-	},
-	["_version"] = 1,
+	["g@ @logDays"] = 14,
+	["g@ @deAbovePrice"] = "0c",
 	["g@ @history"] = {
 		["Disenchant"] = {
 			{
@@ -3703,9 +3681,31 @@ TradeSkillMaster_DestroyingDB = {
 	["g@ @helpPlatesShown"] = {
 		["destroyingFrame"] = true,
 	},
-	["g@ @includeSoulbound"] = false,
 	["_hash"] = 14107345,
+	["g@ @includeSoulbound"] = false,
 	["g@ @deMaxQuality"] = 3,
-	["g@ @deAbovePrice"] = "0c",
-	["g@ @logDays"] = 14,
+	["_version"] = 1,
+	["_currentProfile"] = {
+		["Tipsyox - Bladefist"] = "Default",
+		["Mchuntface - Kil'jaeden"] = "Default",
+		["Migatres - Bladefist"] = "Default",
+		["Joopa - Bladefist"] = "Default",
+		["Burdell - Bladefist"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
+		["Gynum - Bladefist"] = "Default",
+		["Darrila - Bladefist"] = "Default",
+		["Caity - Bladefist"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Zosimus - Bladefist"] = "Default",
+		["Teatsmcangry - Kil'jaeden"] = "Default",
+		["Scrogeina - Kil'jaeden"] = "Default",
+		["Bounceygirl - Kil'jaeden"] = "Default",
+		["Gynum - Kil'jaeden"] = "Default",
+		["Fittyeight - Kil'jaeden"] = "Default",
+		["Burdell - Kil'jaeden"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
+		["Rocksnstalks - Kil'jaeden"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Sillyname - Kil'jaeden"] = "Default",
+	},
 }

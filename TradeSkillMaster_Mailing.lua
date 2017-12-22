@@ -69,20 +69,20 @@ TradeSkillMaster_MailingDB = {
 			"Bounceygirl - Kil'jaeden", -- [21]
 			"Sillyname - Kil'jaeden", -- [22]
 		},
+		["realm"] = {
+			"Bladefist", -- [1]
+			"Kil'jaeden", -- [2]
+			"Kul Tiras", -- [3]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
 		["factionrealm"] = {
 			"Horde - Bladefist", -- [1]
 			"Horde - Kil'jaeden", -- [2]
 			"Horde - Kul Tiras", -- [3]
 			"Alliance - Bladefist", -- [4]
 			"Neutral - Kil'jaeden", -- [5]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
-		["realm"] = {
-			"Bladefist", -- [1]
-			"Kil'jaeden", -- [2]
-			"Kul Tiras", -- [3]
 		},
 	},
 	["c@Caity - Bladefist@goldMailTarget"] = "",
@@ -108,30 +108,30 @@ TradeSkillMaster_MailingDB = {
 		["Zosimus - Bladefist"] = "Default",
 		["Fittyeight - Kil'jaeden"] = "Default",
 		["Scrogeina - Kil'jaeden"] = "Default",
-		["Sillyname - Kil'jaeden"] = "Default",
-		["Hardwoöd - Bladefist"] = "Default",
-		["Rocksnstalks - Kil'jaeden"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
-		["Shamonculus - Kil'jaeden"] = "Default",
-		["Teatsmcangry - Kil'jaeden"] = "Default",
-		["Gynum - Kil'jaeden"] = "Default",
-		["Teats - Bladefist"] = "Default",
 		["Bounceygirl - Kil'jaeden"] = "Default",
+		["Hardwoöd - Bladefist"] = "Default",
+		["Gynum - Kil'jaeden"] = "Default",
+		["Teatsmcangry - Kil'jaeden"] = "Default",
+		["Shamonculus - Kil'jaeden"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
+		["Rocksnstalks - Kil'jaeden"] = "Default",
+		["Teats - Bladefist"] = "Default",
+		["Sillyname - Kil'jaeden"] = "Default",
 	},
 	["c@Sillyname - Kil'jaeden@goldMailTarget"] = "",
-	["f@Neutral - Kil'jaeden@deMailTarget"] = "",
-	["c@Bounceygirl - Kil'jaeden@goldKeepAmount"] = 1000000,
+	["c@Teats - Bladefist@goldKeepAmount"] = 1000000,
+	["c@Migatres - Bladefist@goldKeepAmount"] = 1000000,
 	["c@Shamonculus - Kil'jaeden@goldKeepAmount"] = 1000000,
 	["c@Teatsmcangry - Kil'jaeden@goldKeepAmount"] = 1000000,
 	["g@ @defaultPage"] = 1,
 	["c@Rocksnstalks - Kil'jaeden@goldMailTarget"] = "",
-	["c@Huntymchunt - Bladefist@goldMailTarget"] = "",
 	["c@Fittyeight - Kil'jaeden@goldMailTarget"] = "",
+	["c@Huntymchunt - Bladefist@goldMailTarget"] = "",
 	["g@ @sendMessages"] = true,
 	["c@Burdell - Kil'jaeden@goldMailTarget"] = "",
 	["c@Hardwoöd - Bladefist@goldKeepAmount"] = 1000000,
-	["c@Migatres - Bladefist@goldKeepAmount"] = 1000000,
-	["c@Teats - Bladefist@goldKeepAmount"] = 1000000,
+	["c@Bounceygirl - Kil'jaeden@goldKeepAmount"] = 1000000,
+	["f@Neutral - Kil'jaeden@deMailTarget"] = "",
 	["c@Teatsmcangry - Kil'jaeden@goldMailTarget"] = "",
 	["c@Zosimus - Bladefist@goldMailTarget"] = "",
 }
