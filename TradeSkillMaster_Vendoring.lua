@@ -14,15 +14,15 @@ TradeSkillMaster_VendoringDB = {
 			"Huntymchunt - Bladefist", -- [9]
 			"Caity - Bladefist", -- [10]
 		},
-		["realm"] = {
-			"Bladefist", -- [1]
+		["factionrealm"] = {
+			"Horde - Bladefist", -- [1]
+			"Alliance - Bladefist", -- [2]
 		},
 		["profile"] = {
 			"Default", -- [1]
 		},
-		["factionrealm"] = {
-			"Horde - Bladefist", -- [1]
-			"Alliance - Bladefist", -- [2]
+		["realm"] = {
+			"Bladefist", -- [1]
 		},
 	},
 	["g@ @helpPlatesShown"] = {
@@ -38,20 +38,20 @@ TradeSkillMaster_VendoringDB = {
 		["Burdell - Bladefist"] = "Default",
 		["Hardwoöd - Bladefist"] = "Default",
 		["Gynum - Bladefist"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
 		["Teats - Bladefist"] = "Default",
 		["Caity - Bladefist"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
 	},
 	["g@ @qsHideSoulbound"] = true,
 	["g@ @defaultPage"] = 1,
 	["g@ @qsBatchSize"] = 12,
 	["g@ @displayMoneyCollected"] = false,
+	["g@ @qsMarketValue"] = "dbmarket",
+	["g@ @autoSellTrash"] = false,
+	["g@ @defaultMerchantTab"] = false,
+	["g@ @qsMaxDestroyValue"] = "100g",
+	["g@ @qsMaxMarketValue"] = "100g",
+	["_version"] = 1,
 	["g@ @ignore"] = {
 	},
-	["g@ @defaultMerchantTab"] = false,
-	["g@ @autoSellTrash"] = false,
-	["g@ @qsMaxMarketValue"] = "100g",
-	["g@ @qsMaxDestroyValue"] = "100g",
-	["_version"] = 1,
-	["g@ @qsMarketValue"] = "dbmarket",
 }

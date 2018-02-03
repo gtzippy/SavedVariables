@@ -1,11 +1,10 @@
 
 TradeSkillMaster_WarehousingDB = {
-	["g@ @ShowLogData"] = false,
-	["_hash"] = 185553,
 	["f@Horde - Bladefist@BagState"] = {
 	},
-	["f@Horde - Kil'jaeden@BagState"] = {
-	},
+	["_hash"] = 185553,
+	["g@ @ShowLogData"] = false,
+	["_version"] = 1,
 	["f@Alliance - Bladefist@BagState"] = {
 	},
 	["_scopeKeys"] = {
@@ -28,20 +27,21 @@ TradeSkillMaster_WarehousingDB = {
 			"Bounceygirl - Kil'jaeden", -- [16]
 			"Rocksnstalks - Kil'jaeden", -- [17]
 		},
-		["realm"] = {
-			"Bladefist", -- [1]
-			"Kil'jaeden", -- [2]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["factionrealm"] = {
 			"Horde - Bladefist", -- [1]
 			"Horde - Kil'jaeden", -- [2]
 			"Alliance - Bladefist", -- [3]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Bladefist", -- [1]
+			"Kil'jaeden", -- [2]
+		},
 	},
-	["_version"] = 1,
+	["f@Horde - Kil'jaeden@BagState"] = {
+	},
 	["_currentProfile"] = {
 		["Tipsyox - Bladefist"] = "Default",
 		["Migatres - Bladefist"] = "Default",
@@ -55,10 +55,10 @@ TradeSkillMaster_WarehousingDB = {
 		["Zosimus - Bladefist"] = "Default",
 		["Fittyeight - Kil'jaeden"] = "Default",
 		["Scrogeina - Kil'jaeden"] = "Default",
-		["Rocksnstalks - Kil'jaeden"] = "Default",
+		["Huntymchunt - Bladefist"] = "Default",
 		["Burdell - Kil'jaeden"] = "Default",
 		["Bounceygirl - Kil'jaeden"] = "Default",
 		["Teats - Bladefist"] = "Default",
-		["Huntymchunt - Bladefist"] = "Default",
+		["Rocksnstalks - Kil'jaeden"] = "Default",
 	},
 }
